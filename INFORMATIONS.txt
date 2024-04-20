@@ -1,0 +1,50 @@
+PROBLEM STATEMENT
+        door delivery service
+        with notifications
+        time of delivery
+
+
+TOP LAYER- USER INTERFACE REQUIREMENTS  
+        we need a sign in page at the start of the page
+                it will need unique username and password
+        another option of sign up
+                it will need to setup a unique username and password
+        
+        Then the main home page with 3 opts order, notifcation, tracking
+
+        Then order page needs to be create 
+
+        Cart page 
+
+        Bill page 
+
+        payment link page with REQUIREMENTS
+
+        notifcation page
+
+        tracking page
+
+SITE LINKS TO BE MADE
+        Link from sign in/ sign up to home page
+        home page to order, notifcation, tracking page and vice versa
+        order page to cart and vice versa and also refreshing order by home page
+        cart to Bill
+        bill to order page
+        bill to payment and vice versa
+        payment successful to home page
+
+HTML , CSS needs to be used to make each of the pages we are going to make
+Connection to database using PHP and connection to python using javascript is something we should think later
+
+CODINGS
+
+
+
+
+
+
+
+
+
+
+                
